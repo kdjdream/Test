@@ -1,12 +1,3 @@
-Main0
-M1
-<<<<<<< HEAD
-M2
-M3
-=======
+restart
+main1
 
-
-
-
-B1
->>>>>>> branch
