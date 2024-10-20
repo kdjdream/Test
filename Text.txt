@@ -1,12 +1,17 @@
-Main0
-M1
-<<<<<<< HEAD
-M2
-M3
-=======
+main1
+main2
+main3
+
+Sub1
+Sub2
+sub3
+
+new sub4
 
 
+main1 new
 
+xxx
 
-B1
->>>>>>> branch
+---------------------------
+fork
