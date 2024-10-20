@@ -1,9 +1,5 @@
-main1
-main2
-main3
-
-Sub1
-Sub2
-sub3
+좋아요 기능
+싫어요 기능
+너구리
 
 협력자 추가
