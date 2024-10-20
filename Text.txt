@@ -6,12 +6,4 @@ Sub1
 Sub2
 sub3
 
-new sub4
-
-
-main1 new
-
-xxx
-
----------------------------
-fork
+협력자 추가
